@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+'ingresa tu edad, para saber si eres un adolecente'
+5
+1
+4
+edad
+7
+0
+1
+20
+edad>=13 and edad<18
+4
+1
+23
+'no eres un adolecente'
+13
+4
+1
+20
+'eres un adolecente'
+13
+1
